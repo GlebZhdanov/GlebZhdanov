@@ -1,7 +1,9 @@
 ## Привет, добро пожаловать на моей профиль GitHub. 👋
 
 ### :man_technologist: Обо мне:
-#### + [Начинающий фронтед разработчик .] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <ul>
+  <li>Начинающий фронтед разработчик . <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
+  </ul>
 ---
 
 ### :hammer_and_wrench: Стек :
