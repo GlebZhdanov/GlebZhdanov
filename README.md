@@ -3,6 +3,8 @@
 ### :man_technologist: Обо мне:
   <ul>
   <li>Начинающий фронтед разработчик . <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
+  <li> 🔥 Ищу боевые проекты . <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
+  <li> 🔥 Начинающий фронтед разработчик . <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
   </ul>
   
 ---
