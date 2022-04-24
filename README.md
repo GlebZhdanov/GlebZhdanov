@@ -1,7 +1,7 @@
 ## Привет, добро пожаловать на моей профиль GitHub. 👋
 
-### :man_technologist: About Me :
-#### I am a junior frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :man_technologist: Обо мне:
+#### Начинающий фронтед разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
