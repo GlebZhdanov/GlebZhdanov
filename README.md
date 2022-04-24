@@ -1,10 +1,10 @@
 ## Привет, добро пожаловать на моей профиль GitHub. 👋
 
 ### :man_technologist: Обо мне:
-#### Начинающий фронтед разработчик. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### Начинающий фронтед разработчик . <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Стек :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html"  alt="html" width="50" height="50"/>&nbsp;
